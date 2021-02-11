@@ -22,5 +22,7 @@ This is the test from Igor Marcossi.
 ## Design
 I've decided use the provided wireframes to make a beautiful and enjoyable UI, with a nice UX. It has animations, drag and drop and other gimmicks that make apps way more fun and pleasant to use.
 
+There's also a figma link \o/  
+https://www.figma.com/file/67511Zv43s4mNAQ2pZu3dF/The-great-Cocktail-Search?node-id=0%3A1
 ## Big amount of data
 I'm already caching the GET results, however, if we had a bigger data, I'd suggest to use some good search engine like Elasticsearch or even Algolia.
